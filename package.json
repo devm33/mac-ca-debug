@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devm33/mac-ca-debug/issues"
   },
-  "homepage": "https://github.com/devm33/mac-ca-debug#readme"
+  "homepage": "https://github.com/devm33/mac-ca-debug#readme",
+  "dependencies": {
+    "@roamhq/mac-ca": "^1.0.7"
+  }
 }
