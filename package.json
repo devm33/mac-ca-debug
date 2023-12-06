@@ -1,0 +1,19 @@
+{
+  "name": "mac-ca-debug",
+  "version": "0.0.1",
+  "description": "Debugging tool for mac-ca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/devm33/mac-ca-debug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devm33/mac-ca-debug/issues"
+  },
+  "homepage": "https://github.com/devm33/mac-ca-debug#readme"
+}
